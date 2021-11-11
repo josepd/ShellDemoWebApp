@@ -11,7 +11,7 @@ namespace ShellDemoWebApp.Controllers
         // GET: Home
         public String EID135592()
         {
-            return "Hello from Joseph ver 1.0";
+            return "Hello from Joseph ver 1.1";
         }
          public String EID1001()
         {
