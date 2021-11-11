@@ -13,5 +13,9 @@ namespace ShellDemoWebApp.Controllers
         {
             return "Hello from Joseph ver 1.0";
         }
+         public String EID1001()
+        {
+            return "Hello from 1001 ver 1.0";
+        }
     }
 }
